@@ -2,6 +2,12 @@ Sweet Alert Dialog
 ===================
 SweetAlert for Android, a beautiful and clever alert dialog
 
+#### Thanks to 
+- [pedant](https://github.com/pedant/sweet-alert-dialog/blob/master/README.zh.md)
+- [F0RIS](https://github.com/F0RIS/sweet-alert-dialog)
+
+The original project belongs to [pedant]((https://github.com/pedant/sweet-alert-dialog/blob/master/README.zh.md)) and this is a fork of the project from [F0RIS](https://github.com/F0RIS/sweet-alert-dialog)
+
 #### This is the most advanced and contemporary fork of the apparently dead project 
 **Added:**
 - Ability to set custom view
